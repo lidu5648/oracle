@@ -1,6 +1,4 @@
-# oracle
-processes text to create a bank of phrases
+# Oracle
+Project to parse text from several plays (Agamemnon, Romeo & Juliet, Hamlet, and the Importance of Being Earnest) and provide a random line or all lines said by a selected character.
 
-process: 
-1. delete all numbers from the play
-
+Progress: done parsing character lines in each text file, currently working on up server requests from website to database of characters.
